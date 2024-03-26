@@ -1,2 +1,2 @@
 ﻿using ConsoleApp5;
-Programm1.main();
+Programm2.main();
